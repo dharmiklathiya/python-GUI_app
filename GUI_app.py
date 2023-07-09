@@ -8,12 +8,6 @@ import os
 win = tk.Tk()
 win.title('GUI')
 
-
-
-
-
-
-
 # creat Lable...
 name_lable = ttk.Label(win, text= 'Enter You Name :')
 name_lable.grid(row = 0, column=0, sticky=tk.W)
